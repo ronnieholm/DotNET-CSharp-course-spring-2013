@@ -1,0 +1,26 @@
+- Syllabus
+  - Pro C# 5.0 and the .NET 4.5 Framework (ISBN: 1430242337)
+    - Chapter 1: The Philosophy of .NET
+    - Chapter 2: Building C# Applications
+    - Chapter 3: Core C# Programming Constructs, Part I
+    - Chapter 4: Core C# Programming Constructs, Part II
+    - Chapter 5: Understanding Encapsulation
+    - Chapter 7: Understanding Structured Exception Handling
+    - Chapter 9: Collections and Generics
+    - Chapter 10: Delegates, Events, and Lambda Expressions
+    - Chapter 12: LINQ to Objects
+    - Chapter 21: ADO.NET Part I: The Connected Layer
+    - Chapter 23: ADO.NET Part III: The Entity Framework
+    - Chapter 25: Introducing Windows Communication Foundation
+    - Chapter 32: Introducing ASP.NET Web Forms
+    - Chapter 33: ASP.NET Web Controls, Master Pages, and Themes
+
+  - C# 5.0 in a Nutshell (ISBN: 1449320104)
+    - Chapter 26: Regular Expressions
+
+  - Demystifying LINQ to Objects
+    http://www.bugfree.dk/blog/2010/10/19/demystifying-linq-to-objects
+  - NDC 2011 talk: Kill Your ORM by Rob Conery
+    http://ndc2011.macsimum.no/mp4/Day2%20Thursday/Track1%201140-1240.mp4
+  - Seperating application into Model, View, Controller
+    Hands-on example in class
